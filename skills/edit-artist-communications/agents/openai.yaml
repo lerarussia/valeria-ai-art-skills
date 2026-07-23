@@ -1,0 +1,11 @@
+interface:
+  display_name: Artist Communication Editor
+  short_description: Draft professional communication for artists
+  default_prompt: Draft or edit this curator email, institutional proposal, follow-up, or collaboration message.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
