@@ -1,0 +1,11 @@
+interface:
+  display_name: AI Art Production Planner
+  short_description: Plan an AI art project from concept to delivery
+  default_prompt: Turn this concept into a feasible AI art production plan with workflow, schedule, budget, risks, and technical needs.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
