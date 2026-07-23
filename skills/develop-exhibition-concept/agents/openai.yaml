@@ -1,0 +1,11 @@
+interface:
+  display_name: Exhibition Concept Developer
+  short_description: Turn a theme into an exhibition plan
+  default_prompt: Develop this theme into an exhibition logic, work selection, spatial sequence, and visitor journey.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
