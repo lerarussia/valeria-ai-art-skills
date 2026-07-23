@@ -1,0 +1,11 @@
+interface:
+  display_name: Artist Knowledge Base Builder
+  short_description: Build a reusable artist information source
+  default_prompt: Build a verified knowledge base from my CV, portfolio, bios, project texts, and exhibition records.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
