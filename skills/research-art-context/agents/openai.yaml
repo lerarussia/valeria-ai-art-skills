@@ -1,0 +1,11 @@
+interface:
+  display_name: Context Research for Artists
+  short_description: Research places and institutions for artists
+  default_prompt: Research the place, institution, local history, and ethical context for this artistic opportunity.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
