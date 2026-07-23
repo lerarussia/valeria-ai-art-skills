@@ -1,0 +1,11 @@
+interface:
+  display_name: Open Call Finder & Matcher
+  short_description: Find and rank open calls for an artist
+  default_prompt: Find current open calls and rank them against my practice, eligibility, goals, and constraints.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
