@@ -1,0 +1,11 @@
+interface:
+  display_name: Portfolio Architect
+  short_description: Design a portfolio for a specific audience
+  default_prompt: Design a tailored portfolio structure for this gallery, residency, grant, or client.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
